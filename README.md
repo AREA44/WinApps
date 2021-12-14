@@ -4,9 +4,10 @@ Backup Windows applications.
 
 ## List of software
 
+- Drive Easy Pro
 - Internet Download Manager
-- Sublime Text
 - Partition Wizard
+- Sublime Text
 - UltraISO
 - WinRAR
 
